@@ -1,12 +1,326 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\nahue\\source\\repos\\Servicio-backend\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB225A83-EC76-4331-9418-268118C5C6B5}|Servicio-backend\\Servicio-backend.csproj|c:\\users\\nahue\\source\\repos\\servicio-backend\\servicio-backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FB225A83-EC76-4331-9418-268118C5C6B5}|Servicio-backend\\Servicio-backend.csproj|solutionrelative:servicio-backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB225A83-EC76-4331-9418-268118C5C6B5}|Servicio-backend\\Servicio-backend.csproj|c:\\users\\nahue\\source\\repos\\servicio-backend\\servicio-backend\\controllers\\distancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB225A83-EC76-4331-9418-268118C5C6B5}|Servicio-backend\\Servicio-backend.csproj|solutionrelative:servicio-backend\\controllers\\distancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB225A83-EC76-4331-9418-268118C5C6B5}|Servicio-backend\\Servicio-backend.csproj|c:\\users\\nahue\\source\\repos\\servicio-backend\\servicio-backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB225A83-EC76-4331-9418-268118C5C6B5}|Servicio-backend\\Servicio-backend.csproj|solutionrelative:servicio-backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFC512BA-08BD-4BF1-B9A4-07C68AE336E8}|Repository\\Repository.csproj|c:\\users\\nahue\\source\\repos\\servicio-backend\\repository\\interfaces\\icityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFC512BA-08BD-4BF1-B9A4-07C68AE336E8}|Repository\\Repository.csproj|solutionrelative:repository\\interfaces\\icityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFC512BA-08BD-4BF1-B9A4-07C68AE336E8}|Repository\\Repository.csproj|c:\\users\\nahue\\source\\repos\\servicio-backend\\repository\\implementations\\cityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFC512BA-08BD-4BF1-B9A4-07C68AE336E8}|Repository\\Repository.csproj|solutionrelative:repository\\implementations\\cityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB225A83-EC76-4331-9418-268118C5C6B5}|Servicio-backend\\Servicio-backend.csproj|c:\\users\\nahue\\source\\repos\\servicio-backend\\servicio-backend\\controllers\\citiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB225A83-EC76-4331-9418-268118C5C6B5}|Servicio-backend\\Servicio-backend.csproj|solutionrelative:servicio-backend\\controllers\\citiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85F35A83-D7B6-40D3-9AAF-A94323C82CF3}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\nahue\\source\\repos\\servicio-backend\\businesslayer\\services\\distanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85F35A83-D7B6-40D3-9AAF-A94323C82CF3}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\services\\distanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85F35A83-D7B6-40D3-9AAF-A94323C82CF3}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\nahue\\source\\repos\\servicio-backend\\businesslayer\\interfaces\\idistanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85F35A83-D7B6-40D3-9AAF-A94323C82CF3}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\interfaces\\idistanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85F35A83-D7B6-40D3-9AAF-A94323C82CF3}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\nahue\\source\\repos\\servicio-backend\\businesslayer\\services\\clientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85F35A83-D7B6-40D3-9AAF-A94323C82CF3}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\services\\clientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85F35A83-D7B6-40D3-9AAF-A94323C82CF3}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\nahue\\source\\repos\\servicio-backend\\businesslayer\\interfaces\\iclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85F35A83-D7B6-40D3-9AAF-A94323C82CF3}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\interfaces\\iclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFC512BA-08BD-4BF1-B9A4-07C68AE336E8}|Repository\\Repository.csproj|c:\\users\\nahue\\source\\repos\\servicio-backend\\repository\\implementations\\querylogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFC512BA-08BD-4BF1-B9A4-07C68AE336E8}|Repository\\Repository.csproj|solutionrelative:repository\\implementations\\querylogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFC512BA-08BD-4BF1-B9A4-07C68AE336E8}|Repository\\Repository.csproj|c:\\users\\nahue\\source\\repos\\servicio-backend\\repository\\interfaces\\iquerylogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFC512BA-08BD-4BF1-B9A4-07C68AE336E8}|Repository\\Repository.csproj|solutionrelative:repository\\interfaces\\iquerylogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36C2FEC1-304F-4161-9623-5DFC27111BC8}|DomainModel\\DomainModel.csproj|c:\\users\\nahue\\source\\repos\\servicio-backend\\domainmodel\\dtos\\distanceresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36C2FEC1-304F-4161-9623-5DFC27111BC8}|DomainModel\\DomainModel.csproj|solutionrelative:domainmodel\\dtos\\distanceresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36C2FEC1-304F-4161-9623-5DFC27111BC8}|DomainModel\\DomainModel.csproj|c:\\users\\nahue\\source\\repos\\servicio-backend\\domainmodel\\dtos\\distancerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36C2FEC1-304F-4161-9623-5DFC27111BC8}|DomainModel\\DomainModel.csproj|solutionrelative:domainmodel\\dtos\\distancerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36C2FEC1-304F-4161-9623-5DFC27111BC8}|DomainModel\\DomainModel.csproj|c:\\users\\nahue\\source\\repos\\servicio-backend\\domainmodel\\entities\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36C2FEC1-304F-4161-9623-5DFC27111BC8}|DomainModel\\DomainModel.csproj|solutionrelative:domainmodel\\entities\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85F35A83-D7B6-40D3-9AAF-A94323C82CF3}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\nahue\\source\\repos\\servicio-backend\\businesslayer\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85F35A83-D7B6-40D3-9AAF-A94323C82CF3}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFC512BA-08BD-4BF1-B9A4-07C68AE336E8}|Repository\\Repository.csproj|c:\\users\\nahue\\source\\repos\\servicio-backend\\repository\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFC512BA-08BD-4BF1-B9A4-07C68AE336E8}|Repository\\Repository.csproj|solutionrelative:repository\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36C2FEC1-304F-4161-9623-5DFC27111BC8}|DomainModel\\DomainModel.csproj|c:\\users\\nahue\\source\\repos\\servicio-backend\\domainmodel\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36C2FEC1-304F-4161-9623-5DFC27111BC8}|DomainModel\\DomainModel.csproj|solutionrelative:domainmodel\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\nahue\\source\\repos\\Servicio-backend\\Servicio-backend\\appsettings.json",
+              "RelativeDocumentMoniker": "Servicio-backend\\appsettings.json",
+              "ToolTip": "C:\\Users\\nahue\\source\\repos\\Servicio-backend\\Servicio-backend\\appsettings.json",
+              "RelativeToolTip": "Servicio-backend\\appsettings.json",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB4AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-01T23:18:45.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "QueryLogger.cs",
+              "DocumentMoniker": "C:\\Users\\nahue\\source\\repos\\Servicio-backend\\Repository\\Implementations\\QueryLogger.cs",
+              "RelativeDocumentMoniker": "Repository\\Implementations\\QueryLogger.cs",
+              "ToolTip": "C:\\Users\\nahue\\source\\repos\\Servicio-backend\\Repository\\Implementations\\QueryLogger.cs",
+              "RelativeToolTip": "Repository\\Implementations\\QueryLogger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T22:53:06.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CityRepository.cs",
+              "DocumentMoniker": "C:\\Users\\nahue\\source\\repos\\Servicio-backend\\Repository\\Implementations\\CityRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Implementations\\CityRepository.cs",
+              "ToolTip": "C:\\Users\\nahue\\source\\repos\\Servicio-backend\\Repository\\Implementations\\CityRepository.cs",
+              "RelativeToolTip": "Repository\\Implementations\\CityRepository.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAD4vxgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T22:52:37.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IQueryLogger.cs",
+              "DocumentMoniker": "C:\\Users\\nahue\\source\\repos\\Servicio-backend\\Repository\\Interfaces\\IQueryLogger.cs",
+              "RelativeDocumentMoniker": "Repository\\Interfaces\\IQueryLogger.cs",
+              "ToolTip": "C:\\Users\\nahue\\source\\repos\\Servicio-backend\\Repository\\Interfaces\\IQueryLogger.cs",
+              "RelativeToolTip": "Repository\\Interfaces\\IQueryLogger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T22:52:00.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nahue\\source\\repos\\Servicio-backend\\Servicio-backend\\Program.cs",
+              "RelativeDocumentMoniker": "Servicio-backend\\Program.cs",
+              "ToolTip": "C:\\Users\\nahue\\source\\repos\\Servicio-backend\\Servicio-backend\\Program.cs",
+              "RelativeToolTip": "Servicio-backend\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABUAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T22:48:24.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DistanceController.cs",
+              "DocumentMoniker": "C:\\Users\\nahue\\source\\repos\\Servicio-backend\\Servicio-backend\\Controllers\\DistanceController.cs",
+              "RelativeDocumentMoniker": "Servicio-backend\\Controllers\\DistanceController.cs",
+              "ToolTip": "C:\\Users\\nahue\\source\\repos\\Servicio-backend\\Servicio-backend\\Controllers\\DistanceController.cs",
+              "RelativeToolTip": "Servicio-backend\\Controllers\\DistanceController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAgwBoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T22:47:49.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ClientService.cs",
+              "DocumentMoniker": "C:\\Users\\nahue\\source\\repos\\Servicio-backend\\BusinessLayer\\Services\\ClientService.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Services\\ClientService.cs",
+              "ToolTip": "C:\\Users\\nahue\\source\\repos\\Servicio-backend\\BusinessLayer\\Services\\ClientService.cs",
+              "RelativeToolTip": "BusinessLayer\\Services\\ClientService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T22:45:53.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IClientService.cs",
+              "DocumentMoniker": "C:\\Users\\nahue\\source\\repos\\Servicio-backend\\BusinessLayer\\Interfaces\\IClientService.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Interfaces\\IClientService.cs",
+              "ToolTip": "C:\\Users\\nahue\\source\\repos\\Servicio-backend\\BusinessLayer\\Interfaces\\IClientService.cs",
+              "RelativeToolTip": "BusinessLayer\\Interfaces\\IClientService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T22:45:31.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CitiesController.cs",
+              "DocumentMoniker": "C:\\Users\\nahue\\source\\repos\\Servicio-backend\\Servicio-backend\\Controllers\\CitiesController.cs",
+              "RelativeDocumentMoniker": "Servicio-backend\\Controllers\\CitiesController.cs",
+              "ToolTip": "C:\\Users\\nahue\\source\\repos\\Servicio-backend\\Servicio-backend\\Controllers\\CitiesController.cs",
+              "RelativeToolTip": "Servicio-backend\\Controllers\\CitiesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T22:43:27.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DistanceService.cs",
+              "DocumentMoniker": "C:\\Users\\nahue\\source\\repos\\Servicio-backend\\BusinessLayer\\Services\\DistanceService.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Services\\DistanceService.cs",
+              "ToolTip": "C:\\Users\\nahue\\source\\repos\\Servicio-backend\\BusinessLayer\\Services\\DistanceService.cs",
+              "RelativeToolTip": "BusinessLayer\\Services\\DistanceService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T22:41:00.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IDistanceService.cs",
+              "DocumentMoniker": "C:\\Users\\nahue\\source\\repos\\Servicio-backend\\BusinessLayer\\Interfaces\\IDistanceService.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Interfaces\\IDistanceService.cs",
+              "ToolTip": "C:\\Users\\nahue\\source\\repos\\Servicio-backend\\BusinessLayer\\Interfaces\\IDistanceService.cs",
+              "RelativeToolTip": "BusinessLayer\\Interfaces\\IDistanceService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T22:39:58.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICityRepository.cs",
+              "DocumentMoniker": "C:\\Users\\nahue\\source\\repos\\Servicio-backend\\Repository\\Interfaces\\ICityRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Interfaces\\ICityRepository.cs",
+              "ToolTip": "C:\\Users\\nahue\\source\\repos\\Servicio-backend\\Repository\\Interfaces\\ICityRepository.cs",
+              "RelativeToolTip": "Repository\\Interfaces\\ICityRepository.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAD4vw8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T22:38:15.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DistanceResponse.cs",
+              "DocumentMoniker": "C:\\Users\\nahue\\source\\repos\\Servicio-backend\\DomainModel\\DTOs\\DistanceResponse.cs",
+              "RelativeDocumentMoniker": "DomainModel\\DTOs\\DistanceResponse.cs",
+              "ToolTip": "C:\\Users\\nahue\\source\\repos\\Servicio-backend\\DomainModel\\DTOs\\DistanceResponse.cs",
+              "RelativeToolTip": "DomainModel\\DTOs\\DistanceResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T22:37:17.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DistanceRequest.cs",
+              "DocumentMoniker": "C:\\Users\\nahue\\source\\repos\\Servicio-backend\\DomainModel\\DTOs\\DistanceRequest.cs",
+              "RelativeDocumentMoniker": "DomainModel\\DTOs\\DistanceRequest.cs",
+              "ToolTip": "C:\\Users\\nahue\\source\\repos\\Servicio-backend\\DomainModel\\DTOs\\DistanceRequest.cs",
+              "RelativeToolTip": "DomainModel\\DTOs\\DistanceRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T22:36:58.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "City.cs",
+              "DocumentMoniker": "C:\\Users\\nahue\\source\\repos\\Servicio-backend\\DomainModel\\Entities\\City.cs",
+              "RelativeDocumentMoniker": "DomainModel\\Entities\\City.cs",
+              "ToolTip": "C:\\Users\\nahue\\source\\repos\\Servicio-backend\\DomainModel\\Entities\\City.cs",
+              "RelativeToolTip": "DomainModel\\Entities\\City.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T22:36:22.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\nahue\\source\\repos\\Servicio-backend\\BusinessLayer\\Class1.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Class1.cs",
+              "ToolTip": "C:\\Users\\nahue\\source\\repos\\Servicio-backend\\BusinessLayer\\Class1.cs",
+              "RelativeToolTip": "BusinessLayer\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T22:35:37.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\nahue\\source\\repos\\Servicio-backend\\Repository\\Class1.cs",
+              "RelativeDocumentMoniker": "Repository\\Class1.cs",
+              "ToolTip": "C:\\Users\\nahue\\source\\repos\\Servicio-backend\\Repository\\Class1.cs",
+              "RelativeToolTip": "Repository\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T22:35:25.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\nahue\\source\\repos\\Servicio-backend\\DomainModel\\Class1.cs",
+              "RelativeDocumentMoniker": "DomainModel\\Class1.cs",
+              "ToolTip": "C:\\Users\\nahue\\source\\repos\\Servicio-backend\\DomainModel\\Class1.cs",
+              "RelativeToolTip": "DomainModel\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T22:34:56.748Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

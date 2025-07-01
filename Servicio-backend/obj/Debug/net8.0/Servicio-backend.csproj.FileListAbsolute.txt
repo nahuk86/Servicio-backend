@@ -14,7 +14,6 @@ C:\Users\nahue\source\repos\Servicio-backend\Servicio-backend\obj\Debug\net8.0\S
 C:\Users\nahue\source\repos\Servicio-backend\Servicio-backend\obj\Debug\net8.0\Servicio-backend.AssemblyInfoInputs.cache
 C:\Users\nahue\source\repos\Servicio-backend\Servicio-backend\obj\Debug\net8.0\Servicio-backend.AssemblyInfo.cs
 C:\Users\nahue\source\repos\Servicio-backend\Servicio-backend\obj\Debug\net8.0\Servicio-backend.csproj.CoreCompileInputs.cache
-C:\Users\nahue\source\repos\Servicio-backend\Servicio-backend\obj\Debug\net8.0\Servicio-backend.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\nahue\source\repos\Servicio-backend\Servicio-backend\obj\Debug\net8.0\Servicio-backend.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\nahue\source\repos\Servicio-backend\Servicio-backend\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\nahue\source\repos\Servicio-backend\Servicio-backend\obj\Debug\net8.0\staticwebassets.development.json
@@ -30,3 +29,10 @@ C:\Users\nahue\source\repos\Servicio-backend\Servicio-backend\obj\Debug\net8.0\r
 C:\Users\nahue\source\repos\Servicio-backend\Servicio-backend\obj\Debug\net8.0\Servicio-backend.pdb
 C:\Users\nahue\source\repos\Servicio-backend\Servicio-backend\obj\Debug\net8.0\Servicio-backend.genruntimeconfig.cache
 C:\Users\nahue\source\repos\Servicio-backend\Servicio-backend\obj\Debug\net8.0\ref\Servicio-backend.dll
+C:\Users\nahue\source\repos\Servicio-backend\Servicio-backend\obj\Debug\net8.0\Servicio-backend.sourcelink.json
+C:\Users\nahue\source\repos\Servicio-backend\Servicio-backend\bin\Debug\net8.0\BusinessLayer.dll
+C:\Users\nahue\source\repos\Servicio-backend\Servicio-backend\bin\Debug\net8.0\DomainModel.dll
+C:\Users\nahue\source\repos\Servicio-backend\Servicio-backend\bin\Debug\net8.0\Repository.dll
+C:\Users\nahue\source\repos\Servicio-backend\Servicio-backend\bin\Debug\net8.0\BusinessLayer.pdb
+C:\Users\nahue\source\repos\Servicio-backend\Servicio-backend\bin\Debug\net8.0\Repository.pdb
+C:\Users\nahue\source\repos\Servicio-backend\Servicio-backend\bin\Debug\net8.0\DomainModel.pdb

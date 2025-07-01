@@ -4,6 +4,62 @@
     "C:\\Users\\nahue\\source\\repos\\Servicio-backend\\Servicio-backend\\Servicio-backend.csproj": {}
   },
   "projects": {
+    "C:\\Users\\nahue\\source\\repos\\Servicio-backend\\BusinessLayer\\BusinessLayer.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\nahue\\source\\repos\\Servicio-backend\\BusinessLayer\\BusinessLayer.csproj",
+        "projectName": "BusinessLayer",
+        "projectPath": "C:\\Users\\nahue\\source\\repos\\Servicio-backend\\BusinessLayer\\BusinessLayer.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {
+              "C:\\Users\\nahue\\source\\repos\\Servicio-backend\\DomainModel\\DomainModel.csproj": {
+                "projectPath": "C:\\Users\\nahue\\source\\repos\\Servicio-backend\\DomainModel\\DomainModel.csproj"
+              },
+              "C:\\Users\\nahue\\source\\repos\\Servicio-backend\\Repository\\Repository.csproj": {
+                "projectPath": "C:\\Users\\nahue\\source\\repos\\Servicio-backend\\Repository\\Repository.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "C:\\Users\\nahue\\source\\repos\\Servicio-backend\\DomainModel\\DomainModel.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\nahue\\source\\repos\\Servicio-backend\\DomainModel\\DomainModel.csproj",
+        "projectName": "DomainModel",
+        "projectPath": "C:\\Users\\nahue\\source\\repos\\Servicio-backend\\DomainModel\\DomainModel.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "C:\\Users\\nahue\\source\\repos\\Servicio-backend\\Repository\\Repository.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\nahue\\source\\repos\\Servicio-backend\\Repository\\Repository.csproj",
+        "projectName": "Repository",
+        "projectPath": "C:\\Users\\nahue\\source\\repos\\Servicio-backend\\Repository\\Repository.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {
+              "C:\\Users\\nahue\\source\\repos\\Servicio-backend\\DomainModel\\DomainModel.csproj": {
+                "projectPath": "C:\\Users\\nahue\\source\\repos\\Servicio-backend\\DomainModel\\DomainModel.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
     "C:\\Users\\nahue\\source\\repos\\Servicio-backend\\Servicio-backend\\Servicio-backend.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -28,7 +84,14 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\nahue\\source\\repos\\Servicio-backend\\BusinessLayer\\BusinessLayer.csproj": {
+                "projectPath": "C:\\Users\\nahue\\source\\repos\\Servicio-backend\\BusinessLayer\\BusinessLayer.csproj"
+              },
+              "C:\\Users\\nahue\\source\\repos\\Servicio-backend\\Repository\\Repository.csproj": {
+                "projectPath": "C:\\Users\\nahue\\source\\repos\\Servicio-backend\\Repository\\Repository.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
