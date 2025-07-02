@@ -1,4 +1,4 @@
-const API_BASE = 'https://localhost:32773/api';
+const API_BASE = 'https://localhost:32779/api';
 
 document.addEventListener('DOMContentLoaded', () => {
   const citySelector = document.getElementById('citySelector');
@@ -26,6 +26,7 @@ document.addEventListener('DOMContentLoaded', () => {
       resultDiv.textContent = 'Error al cargar ciudades.';
     });
 
+    // Manejar el evento de clic en el botón de calcular
   calculateBtn.addEventListener('click', () => {
     const cityId = citySelector.value;
     const lat = parseFloat(latitudeInput.value);
@@ -52,6 +53,7 @@ document.addEventListener('DOMContentLoaded', () => {
       longitude: lng
     };
 
+    // Realizar la solicitud POST al backend
     fetch(`${API_BASE}/calculardistancia`, {
       method: 'POST',
       mode: 'cors',
